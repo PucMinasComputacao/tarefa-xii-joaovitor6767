@@ -13,5 +13,5 @@ IMPORTANTE: Assim como informado anteriormente, capriche na etapa pois você vai
 
 ## Prints do trabalho
 
-![Print do trabalho](./public/filmestmdbdiw12.png)
+![Print do trabalho](./public/https://github.com/PucMinasComputacao/tarefa-xii-joaovitor6767/blob/main/filmes%20tmdb%20diw%2012.jpg?raw=true)
 
